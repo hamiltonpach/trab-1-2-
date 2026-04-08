@@ -1,1 +1,1 @@
-# trab-1-2-
+O código declara um vetor com capacidade para armazenar 5 números inteiros. Em seguida, solicita que o usuário digite esses valores, utilizando um laço de repetição para ler e guardar cada número em uma posição do vetor. Após a leitura, o programa percorre o vetor no sentido inverso, começando da última posição até a primeira, exibindo assim os números na ordem inversa em que foram digitados.
